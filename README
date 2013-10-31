@@ -1,5 +1,4 @@
 Implementation of Data Structures from "Reusable Data Structures for C" by Roger Session ISBN: 0-13-779034-1
--------------------------------------------------------------------------------------------------------------
 
 lldef.h : Header for Linked List
 llpck.c : Implementation of Linked List
