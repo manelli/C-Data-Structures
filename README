@@ -9,7 +9,7 @@ queuepck.c : Implementation of Queue (Based on Linked List)
 
 stackdef.h : Header for Stack (Based on Linked List)
 stackpck.c : Implementation of Stack (Based on Linked List)
-mem_stackpck.c : Implementation of Stack using withmemory allocation
+mem_stackpck.c : Implementation of Stack using with memory allocation
 
 btdef.h : Header for Binary Tree
 btpck.c : Implementation of Binary Tree (Similar to llpck.c)
